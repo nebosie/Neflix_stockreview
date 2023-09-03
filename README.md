@@ -8,5 +8,5 @@ Within the dataset one will encounter the following:
 - The closed price of that day - "Close"
 - The amount of stocks traded during that day - "Volume"
 The stock's closing price that has been amended to include any distributions/corporate actions that
-occurs before next days’ open - "Adj[usted] Close"
+occurs before next days’ open - "Adjusted Close"
 Time period - 2015 to 2021 (day level)
